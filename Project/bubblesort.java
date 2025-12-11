@@ -1,5 +1,7 @@
 //663380226-7
 //ฟังก์ชั่น Bubble Sort
+package Project;
+
 public class bubblesort {
     public static void sort(int[] arr) {
         int n = arr.length;

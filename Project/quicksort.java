@@ -1,5 +1,6 @@
 //663380226-7
 //ฟังก์ชั่น Quick Sort
+package Project;
 
 public class quicksort {
      public static void sort(int[] arr, int low, int high) {
@@ -17,7 +18,7 @@ public class quicksort {
         for (int j = low; j < high; j++) {
             if (arr[j] <= pivot) {
                 i++;
-                //สลับ arr [i] กับ arr [j]
+                //สลับ arr[i] กับ arr[j]
                 int temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
