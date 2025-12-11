@@ -1,10 +1,4 @@
 //663380226-7
-//ฟังก์ชั่น Bubble Sort
-package Project;
-import java.util.Arrays;
-import java.util.Scanner;
-
-public class Main {//663380226-7
 package Project;
 import java.util.Arrays;
 import java.util.Scanner;
